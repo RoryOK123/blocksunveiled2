@@ -1,0 +1,2 @@
+/give @p blocksunveiled:alphorite\
+/give @p blocksunveiled:alphorite 1
