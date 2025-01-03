@@ -1,141 +1,182 @@
-[03Jan2025 15:43:10.328] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_client, --version, MOD_DEV, --assetIndex, 19, --assetsDir, C:\Users\RoryMeh\.gradle\caches\forge_gradle\assets, --gameDir, .]
-[03Jan2025 15:43:10.330] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.5+11-LTS
-[03Jan2025 15:43:10.331] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.5 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
-[03Jan2025 15:43:10.402] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
-[03Jan2025 15:43:10.474] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
-[03Jan2025 15:43:10.563] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
-[03Jan2025 15:43:10.638] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/RoryMeh/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=CLIENT
-[03Jan2025 15:43:10.811] [EarlyDisplay/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce RTX 4070/PCIe/SSE2 GL version 4.6.0 NVIDIA 560.94, NVIDIA Corporation
-[03Jan2025 15:43:11.310] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[03Jan2025 15:43:11.881] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_client' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\RoryMeh\.gradle\caches\forge_gradle\assets, --assetIndex, 19]
-[03Jan2025 15:43:12.765] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 243 Datafixer optimizations took 276 milliseconds
-[03Jan2025 15:43:15.534] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:root
-[03Jan2025 15:43:15.534] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:sound_event
-[03Jan2025 15:43:15.534] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:fluid
-[03Jan2025 15:43:15.534] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:particle_type
-[03Jan2025 15:43:15.534] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:attribute
-[03Jan2025 15:43:15.534] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:mob_effect
-[03Jan2025 15:43:15.534] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:block
-[03Jan2025 15:43:15.534] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:enchantment_effect_component_type
-[03Jan2025 15:43:15.534] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:data_component_type
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:entity_type
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:item
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:game_event
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:potion
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:block_entity_type
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:stat_type
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:custom_stat
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:chunk_status
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:rule_test
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:rule_block_entity_modifier
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:pos_rule_test
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:menu
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:recipe_type
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:recipe_serializer
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:position_source_type
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:command_argument_type
-[03Jan2025 15:43:15.535] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:villager_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:villager_profession
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:point_of_interest_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:memory_module_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:sensor_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:activity
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:schedule
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:loot_score_provider_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:loot_number_provider_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:map_decoration_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:loot_nbt_provider_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:loot_function_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:loot_pool_entry_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:loot_condition_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:float_provider_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:int_provider_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:height_provider_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:block_predicate_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/carver
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/structure_processor
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/feature
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/structure_placement
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/structure_piece
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/structure_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/placement_modifier_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/block_state_provider_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/foliage_placer_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/trunk_placer_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/root_placer_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/tree_decorator_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/feature_size_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/biome_source
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/chunk_generator
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/material_condition
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/material_rule
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/density_function_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:block_type
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/structure_pool_element
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/pool_alias_binding
-[03Jan2025 15:43:15.536] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:cat_variant
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:frog_variant
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:decorated_pot_pattern
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:creative_mode_tab
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:trigger_type
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:number_format_type
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:entity_sub_predicate_type
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:item_sub_predicate_type
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:enchantment_level_based_value_type
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:enchantment_entity_effect_type
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:enchantment_location_based_effect_type
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:enchantment_value_effect_type
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:enchantment_provider_type
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:consume_effect_type
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:recipe_display
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:slot_display
-[03Jan2025 15:43:15.537] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:recipe_book_category
-[03Jan2025 15:43:15.776] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/RoryMeh/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.4-54.0.15_mapped_parchment_2024.12.29-1.21.4/forge-1.21.4-54.0.15_mapped_parchment_2024.12.29-1.21.4-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
-[03Jan2025 15:43:15.777] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/RoryMeh/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.4-54.0.15_mapped_parchment_2024.12.29-1.21.4/forge-1.21.4-54.0.15_mapped_parchment_2024.12.29-1.21.4-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
-[03Jan2025 15:43:15.795] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03Jan2025 15:43:15.800] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
-[03Jan2025 15:43:15.869] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
-[03Jan2025 15:43:16.005] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 54.0.15, for MC 1.21.4 with MCP 20241203.143248
-[03Jan2025 15:43:16.005] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v54.0.15 Initialized
-[03Jan2025 15:43:16.017] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
-[03Jan2025 15:43:16.415] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: [blocksunveiled]
-[03Jan2025 15:43:16.518] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
-[03Jan2025 15:43:16.597] [Worker-Main-9/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-16.0.01.hex, loading
-[03Jan2025 15:43:16.597] [Worker-Main-13/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-16.0.01.hex, loading
-[03Jan2025 15:43:16.700] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03Jan2025 15:43:17.267] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 54.0.15 Target: 54.0.15
-[03Jan2025 15:43:18.060] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Realtek HD Audio 2nd output (Realtek(R) Audio)
-[03Jan2025 15:43:18.061] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
-[03Jan2025 15:43:18.120] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
-[03Jan2025 15:43:18.124] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[03Jan2025 15:43:18.124] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[03Jan2025 15:43:18.124] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[03Jan2025 15:43:18.124] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[03Jan2025 15:43:18.126] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[03Jan2025 15:43:18.126] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[03Jan2025 15:43:18.126] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[03Jan2025 15:43:18.126] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[03Jan2025 15:43:18.127] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[03Jan2025 15:43:18.227] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[03Jan2025 15:43:18.227] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[03Jan2025 15:43:18.228] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[03Jan2025 15:43:18.228] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[03Jan2025 15:43:30.378] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
-[03Jan2025 15:43:31.344] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1370 recipes
-[03Jan2025 15:43:31.354] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1481 advancements
-[03Jan2025 15:43:31.442] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.21.4
-[03Jan2025 15:43:31.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03Jan2025 15:43:31.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03Jan2025 15:43:32.130] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 15:43:32.176] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03Jan2025 15:43:32.185] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 476 ms
-[03Jan2025 15:43:32.259] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
-[03Jan2025 15:43:32.259] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
-[03Jan2025 15:43:32.676] [Render thread/INFO] [net.minecraftforge.common.ForgeHooks/]: Connected to a modded server.
-[03Jan2025 15:43:32.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:bdfc3d8f] logged in with entity id 93 at (-656.5363023634055, 63.0, 131.15598085043467)
-[03Jan2025 15:43:32.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
-[03Jan2025 15:43:33.000] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2 advancements
-[03Jan2025 15:43:39.577] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
-[03Jan2025 15:43:39.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[03Jan2025 15:43:39.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[03Jan2025 15:43:39.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[04Jan2025 00:45:58.398] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_userdev_client, --version, MOD_DEV, --assetIndex, 19, --assetsDir, C:\Users\RoryMeh\.gradle\caches\forge_gradle\assets, --gameDir, .]
+[04Jan2025 00:45:58.401] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Eclipse Adoptium OpenJDK 64-Bit Server VM 21.0.5+11-LTS
+[04Jan2025 00:45:58.401] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.2 starting: java version 21.0.5 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[04Jan2025 00:45:58.479] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[04Jan2025 00:45:58.594] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[04Jan2025 00:45:58.706] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[04Jan2025 00:45:58.789] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/RoryMeh/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.7/8ab114ac385e6dbdad5efafe28aba4df8120915f/mixin-0.8.7.jar!/ Service=ModLauncher Env=CLIENT
+[04Jan2025 00:45:58.957] [EarlyDisplay/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce RTX 4070/PCIe/SSE2 GL version 4.6.0 NVIDIA 560.94, NVIDIA Corporation
+[04Jan2025 00:45:59.401] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[04Jan2025 00:45:59.886] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_userdev_client' with arguments [--version, MOD_DEV, --gameDir, ., --assetsDir, C:\Users\RoryMeh\.gradle\caches\forge_gradle\assets, --assetIndex, 19]
+[04Jan2025 00:46:00.793] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 243 Datafixer optimizations took 237 milliseconds
+[04Jan2025 00:46:01.012] [pool-5-thread-1/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[04Jan2025 00:46:03.568] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:root
+[04Jan2025 00:46:03.568] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:sound_event
+[04Jan2025 00:46:03.568] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:fluid
+[04Jan2025 00:46:03.568] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:particle_type
+[04Jan2025 00:46:03.568] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:attribute
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:mob_effect
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:block
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:enchantment_effect_component_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:data_component_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:entity_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:item
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:game_event
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:potion
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:block_entity_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:stat_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:custom_stat
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:chunk_status
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:rule_test
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:rule_block_entity_modifier
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:pos_rule_test
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:menu
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:recipe_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:recipe_serializer
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:position_source_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:command_argument_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:villager_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:villager_profession
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:point_of_interest_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:memory_module_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:sensor_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:activity
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:schedule
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:loot_score_provider_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:loot_number_provider_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:map_decoration_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:loot_nbt_provider_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:loot_function_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:loot_pool_entry_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:loot_condition_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:float_provider_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:int_provider_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:height_provider_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:block_predicate_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/carver
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/structure_processor
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/feature
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/structure_placement
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/structure_piece
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/structure_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/placement_modifier_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/block_state_provider_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/foliage_placer_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/trunk_placer_type
+[04Jan2025 00:46:03.569] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/root_placer_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/tree_decorator_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/feature_size_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/biome_source
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/chunk_generator
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/material_condition
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/material_rule
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/density_function_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:block_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/structure_pool_element
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:worldgen/pool_alias_binding
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:cat_variant
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:frog_variant
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:decorated_pot_pattern
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:creative_mode_tab
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:trigger_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:number_format_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:entity_sub_predicate_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:item_sub_predicate_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:enchantment_level_based_value_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:enchantment_entity_effect_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:enchantment_location_based_effect_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:enchantment_value_effect_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:enchantment_provider_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:consume_effect_type
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:recipe_display
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:slot_display
+[04Jan2025 00:46:03.570] [pool-5-thread-1/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: 	minecraft:recipe_book_category
+[04Jan2025 00:46:03.845] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/RoryMeh/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.4-54.0.15_mapped_parchment_2024.12.29-1.21.4/forge-1.21.4-54.0.15_mapped_parchment_2024.12.29-1.21.4-recomp.jar%230!/assets/.mcassetsroot' uses unexpected schema
+[04Jan2025 00:46:03.845] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/RoryMeh/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.21.4-54.0.15_mapped_parchment_2024.12.29-1.21.4/forge-1.21.4-54.0.15_mapped_parchment_2024.12.29-1.21.4-recomp.jar%230!/data/.mcassetsroot' uses unexpected schema
+[04Jan2025 00:46:03.862] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04Jan2025 00:46:03.868] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: Dev
+[04Jan2025 00:46:03.931] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
+[04Jan2025 00:46:04.091] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 54.0.15, for MC 1.21.4 with MCP 20241203.143248
+[04Jan2025 00:46:04.091] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v54.0.15 Initialized
+[04Jan2025 00:46:04.113] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[04Jan2025 00:46:04.486] [Render thread/INFO] [net.minecraftforge.gametest.ForgeGameTestHooks/]: Enabled Gametest Namespaces: [blocksunveiled]
+[04Jan2025 00:46:04.568] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[04Jan2025 00:46:04.632] [Worker-Main-9/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-16.0.01.hex, loading
+[04Jan2025 00:46:04.632] [Worker-Main-1/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-16.0.01.hex, loading
+[04Jan2025 00:46:04.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[04Jan2025 00:46:05.332] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 54.0.15 Target: 54.0.15
+[04Jan2025 00:46:05.404] [Worker-Main-11/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[04Jan2025 00:46:05.404] [Worker-Main-11/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing client plugin waila:core at mcp.mobius.waila.plugin.core.CoreClientPlugin
+[04Jan2025 00:46:05.413] [Worker-Main-11/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[04Jan2025 00:46:05.413] [Worker-Main-11/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing client plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaClientPlugin
+[04Jan2025 00:46:05.433] [Worker-Main-11/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[04Jan2025 00:46:05.433] [Worker-Main-11/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing client plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestClientPlugin
+[04Jan2025 00:46:05.435] [Worker-Main-11/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[04Jan2025 00:46:05.435] [Worker-Main-11/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing client plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeClientPlugin
+[04Jan2025 00:46:05.437] [Worker-Main-11/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[04Jan2025 00:46:05.437] [Worker-Main-11/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing client plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[04Jan2025 00:46:05.470] [Worker-Main-11/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[04Jan2025 00:46:06.111] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Realtek HD Audio 2nd output (Realtek(R) Audio)
+[04Jan2025 00:46:06.111] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[04Jan2025 00:46:06.168] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[04Jan2025 00:46:06.172] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[04Jan2025 00:46:06.172] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[04Jan2025 00:46:06.172] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[04Jan2025 00:46:06.173] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[04Jan2025 00:46:06.175] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[04Jan2025 00:46:06.175] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[04Jan2025 00:46:06.175] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[04Jan2025 00:46:06.175] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[04Jan2025 00:46:06.176] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[04Jan2025 00:46:06.249] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[04Jan2025 00:46:06.250] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[04Jan2025 00:46:06.250] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[04Jan2025 00:46:06.250] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[04Jan2025 00:46:17.042] [Render thread/INFO] [net.minecraftforge.registries.GameData/REGISTRIES]: Injecting existing registry data into this CLIENT instance
+[04Jan2025 00:46:17.994] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1370 recipes
+[04Jan2025 00:46:18.002] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1481 advancements
+[04Jan2025 00:46:18.122] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.21.4
+[04Jan2025 00:46:18.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04Jan2025 00:46:18.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04Jan2025 00:46:18.799] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Jan2025 00:46:18.883] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04Jan2025 00:46:18.893] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[04Jan2025 00:46:18.894] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 511 ms
+[04Jan2025 00:46:18.962] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
+[04Jan2025 00:46:18.962] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
+[04Jan2025 00:46:19.377] [Render thread/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[04Jan2025 00:46:19.377] [Render thread/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing client plugin waila:core at mcp.mobius.waila.plugin.core.CoreClientPlugin
+[04Jan2025 00:46:19.377] [Render thread/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[04Jan2025 00:46:19.377] [Render thread/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing client plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaClientPlugin
+[04Jan2025 00:46:19.377] [Render thread/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[04Jan2025 00:46:19.377] [Render thread/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing client plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestClientPlugin
+[04Jan2025 00:46:19.377] [Render thread/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[04Jan2025 00:46:19.377] [Render thread/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing client plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeClientPlugin
+[04Jan2025 00:46:19.377] [Render thread/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[04Jan2025 00:46:19.377] [Render thread/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing client plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[04Jan2025 00:46:19.388] [Render thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[04Jan2025 00:46:19.396] [Render thread/INFO] [mcp.mobius.waila.network.common.s2c.ConfigSyncCommonS2CPacket/]: [WTHIT] Received config from the server: {"minecraft:bee.hive_occupants":true,"minecraft:attribute.horse_jump_height":true,"harvest:enabled":true,"minecraft:level.composter":true,"minecraft:entity.armor":true,"minecraft:effect.beacon":true,"minecraft:plant.tree_growable":true,"minecraft:attribute.horse_speed":true,"wailax:progress.enabled_entity":true,"minecraft:redstone.lever":true,"minecraft:entity.absorption":true,"minecraft:jukebox.record":true,"minecraft:book.bookshelf":true,"minecraft:effect.mob":true,"wailax:energy.enabled_entity":true,"wailax:fluid.enabled_block":true,"minecraft:plant.crop_growable":true,"minecraft:attribute.health":true,"minecraft:horse.jump_height":true,"minecraft:crop_growable":true,"wailax:item.nbt":true,"minecraft:entity.health":true,"minecraft:attribute.beacon_effects":true,"minecraft:plant.crop_progress":true,"minecraft:pet.owner":true,"minecraft:bee.hive_honey_level":true,"wailax:fluid.enabled_entity":true,"minecraft:timer.grow":true,"minecraft:bee.hive_pos":true,"minecraft:entity.item_entity":true,"minecraft:attribute.mob_effects":true,"minecraft:override.invisible_entity":true,"minecraft:spawner_type":true,"wailax:progress.enabled_block":true,"minecraft:note_block.type":true,"minecraft:tree_growable":true,"minecraft:override.infested":true,"wailax:item.enabled_entity":true,"minecraft:breaking_progress.enabled":true,"minecraft:item_entity":true,"minecraft:timer.breed":true,"minecraft:redstone.comparator":true,"minecraft:attribute.panda_genes":true,"wailax:item.enabled_block":true,"minecraft:spawner.type":true,"minecraft:effect.hidden_mob":false,"minecraft:override.trapped_chest":true,"minecraft:horse.speed":true,"minecraft:attribute.armor":true,"wailax:energy.enabled_block":true,"minecraft:attribute.absorption":true,"minecraft:redstone.level":true,"minecraft:level.honey":true,"minecraft:crop_progress":true,"minecraft:attribute.hidden_mob_effects":false,"minecraft:redstone.repeater":true,"minecraft:player_head.name":true,"minecraft:panda.genes":true,"minecraft:override.powder_snow":true}
+[04Jan2025 00:46:19.511] [Render thread/INFO] [net.minecraftforge.common.ForgeHooks/]: Connected to a modded server.
+[04Jan2025 00:46:19.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dev[local:E:bfd6b5a6] logged in with entity id 73 at (-654.7891079221835, 63.0, 127.25897254836853)
+[04Jan2025 00:46:19.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev joined the game
+[04Jan2025 00:46:19.792] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 93 advancements
+[04Jan2025 00:47:18.156] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 96 advancements
+[04Jan2025 00:47:36.403] [Render thread/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 97 advancements
+[04Jan2025 00:51:10.344] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[04Jan2025 00:51:10.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[04Jan2025 00:51:10.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[04Jan2025 00:51:10.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[04Jan2025 00:51:10.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
+[04Jan2025 00:51:10.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[04Jan2025 00:51:11.006] [Server thread/INFO] [net.minecraft.server.network.ServerCommonPacketListenerImpl/]: Stopping singleplayer server as player logged out
+[04Jan2025 00:51:11.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Jan2025 00:51:11.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Jan2025 00:51:11.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Jan2025 00:51:11.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[04Jan2025 00:51:11.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[04Jan2025 00:51:11.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[04Jan2025 00:51:11.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (New World): All chunks are saved
+[04Jan2025 00:51:11.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2025 00:51:11.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jan2025 00:51:11.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Jan2025 00:51:12.078] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!

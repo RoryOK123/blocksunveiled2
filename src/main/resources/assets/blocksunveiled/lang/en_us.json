@@ -1,3 +1,8 @@
 {
-  "item.blocksunveiled.alphorite": "Alphorite"
+  "item.blocksunveiled.raw_alphorite": "Raw Alphorite",
+  "item.blocksunveiled.alphorite": "Alphorite",
+  "item.blocksunveiled.alphorite_block": "Block of Alphorite",
+  "block.blocksunveiled.alphorite_block": "Block of Alphorite",
+  "item.blocksunveiled.raw_alphorite_block": "Block of Raw Alphorite",
+  "block.blocksunveiled.raw_alphorite_block": "Block of Raw Alphorite"
 }

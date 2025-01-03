@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "blocksunveiled:block/raw_alphorite_block"
+  }
+}

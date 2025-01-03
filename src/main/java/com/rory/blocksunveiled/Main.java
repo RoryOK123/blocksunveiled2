@@ -1,6 +1,7 @@
 package com.rory.blocksunveiled;
 
 import com.mojang.logging.LogUtils;
+import com.rory.blocksunveiled.Blocks.ModBlocks;
 import com.rory.blocksunveiled.Items.ModItems;
 import net.minecraft.client.Minecraft;
 import net.minecraft.core.registries.Registries;
@@ -46,6 +47,7 @@ public class Main {
         modEventBus.addListener(this::commonSetup);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
 
@@ -62,7 +64,14 @@ public class Main {
 
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-
+        if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
+            event.accept(ModItems.ALPHORITE);
+            event.accept(ModItems.RAW_ALPHORITE);
+        }
+        if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
+            event.accept(ModBlocks.ALPHORITE_BLOCK);
+            event.accept(ModBlocks.RAW_ALPHORITE_BLOCK);
+        }
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call

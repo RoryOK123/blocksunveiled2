@@ -13,6 +13,7 @@ import net.minecraftforge.registries.RegistryObject;
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, Main.MODID);
     public static final RegistryObject<Item> ALPHORITE = ITEMS.register("alphorite",()-> new Item(new Item.Properties().useItemDescriptionPrefix().setId(ResourceKey.create(Registries.ITEM, ResourceLocation.parse("blocksunveiled:alphorite")))));
+    public static final RegistryObject<Item> RAW_ALPHORITE = ITEMS.register("raw_alphorite",()->new Item(new Item.Properties().useItemDescriptionPrefix().setId(ResourceKey.create(Registries.ITEM, ResourceLocation.parse("blocksunveiled:raw_alphorite")))));
     public static void register(IEventBus eventBus){
         ITEMS.register(eventBus);
     }
