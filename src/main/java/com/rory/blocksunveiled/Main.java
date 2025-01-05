@@ -2,6 +2,7 @@ package com.rory.blocksunveiled;
 
 import com.mojang.logging.LogUtils;
 import com.rory.blocksunveiled.Blocks.ModBlocks;
+import com.rory.blocksunveiled.Items.ModCreativeModTabs;
 import com.rory.blocksunveiled.Items.ModItems;
 import net.minecraft.client.Minecraft;
 import net.minecraft.core.registries.Registries;
@@ -48,6 +49,7 @@ public class Main {
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+        ModCreativeModTabs.register(modEventBus);
 
         MinecraftForge.EVENT_BUS.register(this);
 

@@ -1,0 +1,13 @@
+{
+  "type": "smelting",
+  "category": "misc",
+  "cookingtime": "200",
+  "experience": 0.5,
+  "group": "alphorite",
+  "ingredient": {
+    "item": "blocksunveiled:raw_alphorite"
+  },
+  "result": {
+    "id": "blocksunveiled:alphorite"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_unshaped",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "blocksunveiled:raw_alphorite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "blocksunveiled:raw_alphorite"
+  }
+}

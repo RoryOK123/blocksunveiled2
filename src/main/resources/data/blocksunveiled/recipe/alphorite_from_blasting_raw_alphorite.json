@@ -1,0 +1,13 @@
+{
+  "type": "blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.75,
+  "group": "alphorite",
+  "ingredient": {
+    "item": "blocksunveiled:raw_alphorite"
+  },
+  "result":{
+    "id": "blocksunveiled:alphorite"
+  }
+}

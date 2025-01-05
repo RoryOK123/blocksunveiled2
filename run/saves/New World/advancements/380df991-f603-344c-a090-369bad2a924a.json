@@ -300,15 +300,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 00:47:18 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-01-04 00:47:36 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_log": "2025-01-04 00:47:18 +0700"
+      "has_lots_of_items": "2025-01-05 09:37:13 +0700"
     },
     "done": true
   },
