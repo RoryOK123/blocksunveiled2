@@ -1,10 +1,8 @@
 package com.rory.blocksunveiled.Blocks;
 
-import com.nimbusds.jose.util.Resource;
 import com.rory.blocksunveiled.Blocks.Custom.SmelteryBlock;
 import com.rory.blocksunveiled.Items.ModItems;
 import com.rory.blocksunveiled.Main;
-import net.minecraft.client.resources.sounds.Sound;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.resources.ResourceLocation;
