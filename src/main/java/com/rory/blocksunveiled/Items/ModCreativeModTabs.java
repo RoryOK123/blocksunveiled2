@@ -23,6 +23,12 @@ public class ModCreativeModTabs {
                         output.accept(ModItems.RAW_ALPHORITE.get());
                         output.accept(ModBlocks.ALPHORITE_BLOCK.get());
                         output.accept(ModBlocks.RAW_ALPHORITE_BLOCK.get());
+                        output.accept(ModBlocks.ALPHORITE_DEEPSLATE_ORE.get());
+                        output.accept(ModBlocks.ALPHORITE_ORE.get());
+                        output.accept(ModBlocks.CHISELED_ALPHORITE.get());
+                        output.accept(ModItems.ALPHORITE_CHISEL.get());
+                        output.accept(ModBlocks.SMELTERY.get());
+                        output.accept(ModItems.ALPHORITE_MEAT.get());
                     })
             .build());
 

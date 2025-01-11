@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "blocksunveiled:block/smeltery_side",
+    "side": "blocksunveiled:block/smeltery_side",
+    "top": "blocksunveiled:block/smeltery_top",
+    "bottom": "blocksunveiled:block/smeltery_bottom"
+  }
+}

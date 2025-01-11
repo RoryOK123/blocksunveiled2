@@ -73,6 +73,8 @@ public class Main {
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
             event.accept(ModBlocks.ALPHORITE_BLOCK);
             event.accept(ModBlocks.RAW_ALPHORITE_BLOCK);
+            event.accept(ModBlocks.ALPHORITE_ORE);
+            event.accept(ModBlocks.ALPHORITE_DEEPSLATE_ORE);
         }
     }
 

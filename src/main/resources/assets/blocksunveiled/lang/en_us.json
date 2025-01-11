@@ -5,6 +5,15 @@
   "block.blocksunveiled.alphorite_block": "Block of Alphorite",
   "item.blocksunveiled.raw_alphorite_block": "Block of Raw Alphorite",
   "block.blocksunveiled.raw_alphorite_block": "Block of Raw Alphorite",
+  "item.blocksunveiled.alphorite_ore": "Alphorite Ore",
+  "block.blocksunveiled.alphorite_ore": "Alphorite Ore",
+  "item.blocksunveiled.alphorite_deepslate_ore": "Deepslate Alphorite Ore",
+  "block.blocksunveiled.alphorite_deepslate_ore": "Deepslate Alphorite Ore",
+  "item.blocksunveiled.chiseled_alphorite": "Chiseled Alphorite",
+  "block.blocksunveiled.chiseled_alphorite": "Chiseled Alphorite",
+  "item.blocksunveiled.alphorite_chisel": "Alphorite Chisel",
+  "item.blocksunveiled.smeltery": "Smeltery",
+  "block.blocksunveiled.smeltery": "Smeltery",
 
   "creativetab.blocksunveiled.alphorite": "Alphorite Items"
 }

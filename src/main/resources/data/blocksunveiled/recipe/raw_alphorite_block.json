@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "A": {
-      "item": "blocksunveiled:raw_alphorite"
-    }
+    "A": "blocksunveiled:raw_alphorite"
   },
   "pattern": [
     "AAA",

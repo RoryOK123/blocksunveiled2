@@ -1,11 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
-  "ingredients": [
-    {
-      "item": "blocksunveiled:alphorite_block"
-    }
-  ],
+  "ingredients": ["blocksunveiled:alphorite_block"],
   "result": {
     "count": 9,
     "id": "blocksunveiled:alphorite"

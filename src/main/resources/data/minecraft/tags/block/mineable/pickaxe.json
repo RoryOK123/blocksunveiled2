@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "blocksunveiled:alphorite_block",
+    "blocksunveiled:raw_alphorite_block",
+    "blocksunveiled:alphorite_ore",
+    "blocksunveiled:alphorite_deepslate_ore",
+    "blocksunveiled:chiseled_alphorite"
+  ]
+}
